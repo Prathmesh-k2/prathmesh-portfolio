@@ -44,7 +44,7 @@ function Hero() {
             </p>
 
             <div className="d-flex justify-content-center justify-content-lg-start gap-3 flex-wrap mb-4">
-              <a href="https://drive.google.com/file/d/1v7UtzEhZB1RTN-ZqWE35MzUFJ-nTqsio/view?usp=sharing" target="_blank" rel="noreferrer" className="btn-accent">
+              <a href="https://drive.google.com/file/d/1MgHCb_h2ziWqLqNsSl_HJ2yagd-fKczZ/view?usp=sharing" target="_blank" rel="noreferrer" className="btn-accent">
                 <FaDownload className="me-2" /> Download CV
               </a>
               <a href="#contact" className="btn-outline-custom">
