@@ -70,7 +70,7 @@ function Hero() {
               <div className="hero-glow"></div>
               <img
                 // src="/profile.jpeg"
-                src="/profile2.png"
+                src="/profile4.jpeg"
                 alt="Prathmesh Kokare"
                 className="hero-profile-img img-fluid"
               />
